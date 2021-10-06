@@ -1,4 +1,4 @@
-### E aeee galera! Eu sou o João Vítor Fonseca 👋
+### E aeee galera! Eu sou o João Vítor Fonseca. 👋
 
 - 🔭 Hoje trabalho como desenvolvedor Front-End, atualmente com o framework angular.
 - 🌱 Estou estudando Typescript, angular, React.
