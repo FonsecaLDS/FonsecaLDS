@@ -4,9 +4,9 @@
 (All glory to Jesus)
 ### - 🔭 Hoje trabalho como desenvolvedor Front-End, atualmente com o framework angular. 
 (I work as a front-end, currently with angular framework.)
-### - 🌱 Estou estudando Typescript, angular, React. 
+### - Estou estudando Typescript, angular, React. 
 (I'm learning Typescript,angular,React.)
-### - 👯 Estou colaborando em um projeto de alocação em angular. 
+### - Estou colaborando em um projeto de alocação em angular. 
 (Collaborate on an allocation project using angular)
 ### - 📫 Para falar comigo, entre em contato pelo email: jvl10fonseca@gmail.com ou pelo insta @joaofonsecads: https://www.instagram.com/joaofonsecads. 
 (Contact me by email:jvl10fonseca@gmail.com or instagram: @joaofonsecads: https://www.instagram.com/joaofonsecads)
