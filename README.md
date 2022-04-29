@@ -6,8 +6,8 @@
 (I work as a front-end, currently with angular framework.)
 ### - Estou estudando Typescript, angular, React. 
 (I'm learning Typescript,angular,React.)
-### - Estou colaborando em um projeto de alocação em angular. 
-(Collaborate on an allocation project using angular)
+### - Estou colaborando em projetos de desenvolvimento web utilizando angular e com conexão a API feita em C#.
+(Collaborate on an allocation project using angular with api conection make on C#);
 ### - 📫 Para falar comigo, entre em contato pelo email: jvl10fonseca@gmail.com ou pelo insta @joaofonsecads: https://www.instagram.com/joaofonsecads. 
 (Contact me by email:jvl10fonseca@gmail.com or instagram: @joaofonsecads: https://www.instagram.com/joaofonsecads)
 ### - ⚡ Sobre mim: Sou Cristão, Apaixonado por musica 🎸🎹🥁, Gosto de Jogar video game as vezes! 
