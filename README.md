@@ -6,7 +6,7 @@
 
 ## About Me
 
-- Software Developer with over 5 years of experience in technology and software development.
+- Software Developer with over 6 years of experience in technology and software development.
 - Graduated in Information Technology.
 - Experienced in web, mobile, and backend application development.
 - Skilled in Flutter, FlutterFlow, Supabase, Firebase, JavaScript, Angular, .NET, C#, Delphi, SQL, and API integrations.
