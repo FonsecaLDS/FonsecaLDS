@@ -2,6 +2,8 @@
 
 # João Vitor Fonseca
 
+**All glory to Jesus.**
+
 ## About Me
 
 - Software Developer with over 5 years of experience in technology and software development.
@@ -101,3 +103,4 @@
     alt="LinkedIn"
   />
 </a>
+
