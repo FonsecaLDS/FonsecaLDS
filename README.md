@@ -1,48 +1,103 @@
-### E aeee galera! Eu sou o João Vítor Fonseca. ( Hey Guys! I'm João Vítor Fonseca )
+![](https://komarev.com/ghpvc/?username=FonsecaLDS&color=006bed)
 
-### - ✝️ A Ele toda a Glória para sempre!!! 
-(All glory to Jesus)
-### - 🔭 Hoje trabalho como desenvolvedor Front-End, atualmente com o framework angular. 
-(I work as a front-end, currently with angular framework.)
-### - Estou estudando Typescript, angular, React. 
-(I'm learning Typescript,angular,React.)
-### - Estou colaborando em projetos de desenvolvimento web utilizando angular e com conexão a API feita em C#.
-(Collaborate on an allocation project using angular with api connection make on C#);
-### - 📫 Para falar comigo, entre em contato pelo email: jvl10fonseca@gmail.com ou pelo insta @joaofonsecads: https://www.instagram.com/joaofonsecads. 
-(Contact me by email:jvl10fonseca@gmail.com or instagram: @joaofonsecads: https://www.instagram.com/joaofonsecads)
-### - ⚡ Sobre mim: Sou Cristão, Apaixonado por musica 🎸🎹🥁, Gosto de Jogar video game as vezes! 
-(About me: Christian, musician, I like to play video games sometimes)
+# João Vitor Fonseca
 
+## About Me
 
-##
-### Linguagens que estou aprendendo e trabalhando: (programming language that I have been working and learning:)
+- Software Developer with over 5 years of experience in technology and software development.
+- Graduated in Information Technology.
+- Experienced in web, mobile, and backend application development.
+- Skilled in Flutter, FlutterFlow, Supabase, Firebase, JavaScript, Angular, .NET, C#, Delphi, SQL, and API integrations.
+- I work on SaaS platforms, mobile apps, admin dashboards, automation systems, and custom software solutions.
+- Currently improving my skills in Flutter, software architecture, Supabase backend development, payment integrations, and cross-platform development.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="FonsecaLDS-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> -
-  <img align="center" alt="FonsecaLDS-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> -
-  <img align="center" alt="FonsecaLDS-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -
-  <img align="center" alt="FonsecaLDS-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"> -
-  <img align="center" alt="FonsecaLDS-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> -
-  <img align="center" alt="FonsecaLDS-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> -
-  
-  <img align="center" alt="FonsecaLDS-Sass" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-</div>
+## My Skills
 
-##
-### SO que uso para programar: (OS that I use for development:)
-<div style="display: inline_block"><br>
-<img align="center" alt="FonsecaLDS-apple" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg"> -
-<img align="center" alt="FonsecaLDS-windows" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-</div>
+**Applications and Data**
 
-##
+![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
+![FlutterFlow](https://img.shields.io/badge/-FlutterFlow-333333?style=flat&logo=flutter)
+![Delphi](https://img.shields.io/badge/-Delphi-333333?style=flat&logo=delphi)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-333333?style=flat&logo=tailwindcss)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=flat&logo=supabase)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
-<div align="center">
-  <a href="https://github.com/FonsecaLDS">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FonsecaLDS&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FonsecaLDS&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+**APIs and Integrations**
 
+![Stripe](https://img.shields.io/badge/-Stripe-333333?style=flat&logo=stripe)
+![Twilio](https://img.shields.io/badge/-Twilio-333333?style=flat&logo=twilio)
+![SendGrid](https://img.shields.io/badge/-SendGrid-333333?style=flat&logo=sendgrid)
+![REST API](https://img.shields.io/badge/-REST%20API-333333?style=flat)
+![Swagger](https://img.shields.io/badge/-Swagger-333333?style=flat&logo=swagger)
 
-  
+**Utilities**
 
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+**DevOps and Version Control**
+
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+
+**Development Tools**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=androidstudio)
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+![Codex](https://img.shields.io/badge/-Codex-333333?style=flat&logo=openai)
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+
+<br/>
+
+## GitHub Profile
+
+<img 
+  src="https://github.com/FonsecaLDS.png" 
+  width="180" 
+  alt="João Vitor Fonseca"
+/>
+
+<br/>
+
+<a href="https://github.com/FonsecaLDS">
+  <img 
+    src="https://img.shields.io/badge/GitHub-FonsecaLDS-181717?style=flat-square&logo=github&logoColor=white" 
+    alt="GitHub Profile"
+  />
+</a>
+
+## Where to Find Me
+
+<a href="https://github.com/FonsecaLDS">
+  <img 
+    src="https://img.shields.io/badge/GitHub-FonsecaLDS-181717?style=flat-square&logo=github&logoColor=white" 
+    alt="GitHub"
+  />
+</a>
+
+<a href="mailto:jvl10fonseca@gmail.com">
+  <img 
+    src="https://img.shields.io/badge/Gmail-jvl10fonseca%40gmail.com-006bed?style=flat-square&logo=gmail&logoColor=white" 
+    alt="Gmail"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/jvfonsecads">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-João%20Vitor%20Fonseca-blue?style=flat-square&logo=linkedin&logoColor=white" 
+    alt="LinkedIn"
+  />
+</a>
