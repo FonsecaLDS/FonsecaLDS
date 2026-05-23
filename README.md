@@ -65,7 +65,7 @@
 ## GitHub Profile
 
 <img 
-  src="https://github.com/FonsecaLDS.png" 
+  src="https://images.weserv.nl/?url=https://github.com/FonsecaLDS.png&w=180&h=180&fit=cover&mask=circle" 
   width="180" 
   alt="João Vitor Fonseca"
 />
